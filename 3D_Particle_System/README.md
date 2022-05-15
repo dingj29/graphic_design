@@ -1,12 +1,10 @@
-# 3GC3_Assignment3
+# 3D_Particle_System
  
  To be able to compile and run the assignment, setup OpenGL and freeglut. To run the assignment, simply use the command "make" while in the main directory. Make sure you download main.cpp, makefile, particle.h and particle.cpp.
 
 ## Personal Infos
-- Name: Zicheng Guo
-- student Num: 400250658
 - Name: Jianlan Ding
-- student Num: 400235703
+- Name: Zicheng Guo
 
 
 ## Development
@@ -14,7 +12,7 @@
 - platform: Visual Studio 2019, vs code
 - MinGW 64-bits
 
-## Assignment2 Functionality Description
+## Project Functionality Description
 To generate a 3D particle fountain using OpenGL/Glut. Particles are randomly initialized with following properties: rotation angle, speed, direction, shape, color, size and material(there are different types of particles). Particles should be continuously added to the system, and should shoot upward from the "particle origin", then fall back to the plane. Despite of the mandatory features, Pressing N or n should place the camera position inside the next particle enters the system; Pressing 'w' 'a' 's' d' should change the angle of cannon and initial particle trajectory. Besides, we implemented three types of particles: rubber ball, anti-gravity ball and superglue ball. 
 
  

@@ -1,17 +1,16 @@
-# 3GC3_Assignment1
+# Drawing_Tool
  
  To be able to compile and run the assignment, setup OpenGL and freeglut. To run the assignment, simply use the command "make" while in the main directory. 
 
 ## Personal Infos
 - Name: Jianlan Ding
-- student Num: 400235703
 
 
 ## Development
 - OS used: Windows 10
 - platform: Visual Studio 2019
 
-## Assignment1 Functionality Description
+## Project Functionality Description
 To create a basic drawing tool using OpenGL and freeglut. The user should be able to interact with the canvas and doing all sorts of fun stuff. (Ex. making a point, draw lines, even painting a picture!)
 
  

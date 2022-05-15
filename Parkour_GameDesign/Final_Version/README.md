@@ -1,8 +1,7 @@
-# Team 17 3GC3 Project
-Team members: 
+# Parkour Game Project
+Team members:
+- Jianlan Ding 
 - Zicheng Guo
-- Jianlan Ding
-- Kaicheng Xu
 - Hanjie Xu
 
 ## How to run

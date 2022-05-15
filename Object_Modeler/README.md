@@ -1,4 +1,4 @@
-# 3GC3 Assignment_4
+# Object Modeler
 Team members: 
 - Zicheng Guo
 - Jianlan Ding
@@ -17,7 +17,7 @@ More information about GLM can be found here:https://glm.g-truc.net/0.9.9/index.
 Download everything from my repo. Make sure you are in the same directory as makefile. Then just type 'make'.
 
 ## Description
-In this assignment, we are asked to develop a simple modeler system using Opengl and C++. The user is able to rendering a specific object by pressing a specific key. When user click on an object, he is able to select an object. We are asked to use mouse ray picking to achieve the selection. After an object is selected, we can translate, rotate, apply material and doing all kinds of things with it.
+In this project, we develop a simple modeler system using Opengl and C++. The user is able to rendering a specific object by pressing a specific key. When user click on an object, he is able to select an object. We are asked to use mouse ray picking to achieve the selection. After an object is selected, we can translate, rotate, apply material and doing all kinds of things with it.
 
 ## Additional Features
 - Custom shape: use obj file and a parser to load obj model(a cat) into game. Can be applied with material and textures.
