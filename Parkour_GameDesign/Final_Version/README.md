@@ -15,6 +15,7 @@ This is a Parkour game similar to Chameleon Run, which requires concentration an
 The longer distance the player runs, the higher the score is.
 
 <img src="../../images/parkour_game.png" width="800" height="700">
+
 ## Content
 This prototype includes the following:
 1. Starry sky background
