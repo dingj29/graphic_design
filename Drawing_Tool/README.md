@@ -13,6 +13,8 @@
 ## Project Functionality Description
 To create a basic drawing tool using OpenGL and freeglut. The user should be able to interact with the canvas and doing all sorts of fun stuff. (Ex. making a point, draw lines, even painting a picture!)
 
+<img src="../images/painting_tool.png" width="800" height="500">
+
  
 ## Usage (Interaction with User)
 | Command  | Description  |
