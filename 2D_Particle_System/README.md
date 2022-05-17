@@ -1,6 +1,7 @@
 # 2D_Particle_System
  
  To be able to compile and run the assignment, setup OpenGL and freeglut. To run the assignment, simply use the command "make" while in the main directory. Make sure you download my modified version mathLib2D.h and mathLib2D.cpp.
+ 
 
 ## Personal Infos
 - Name: Jianlan Ding
@@ -13,6 +14,8 @@
 
 ## Project Functionality Description
 To generate a 2D particle system using OpenGL/Glut. Particles are randomly initialized with following properties: location, speed, vector(direction), size, color. Particles would bounce off the screen edge. Particles are initialized with a random and relatively small size, then they can grow to have a bigger size after activated the grow_and_split feature. After a particle reaching the certain size, it splits into two smaller particles and the newborn particles may grow and split. The user should be able to interact with the viewing box and adding particles, remove particles and pause etc. Furthermore, after activating mouse_change_color feature, the particle may change color when mouse cursor approach.
+
+ <img src="../images/2d_particle_system.png" width="700" height="500">
 
  
 ## Usage (Interaction with User)
