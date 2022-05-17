@@ -1,7 +1,7 @@
 # Object Modeler
 Team members: 
-- Zicheng Guo
 - Jianlan Ding
+- Zicheng Guo
 
 ## How to run
 Before starting, make sure GLM lib is installed properly.
@@ -18,6 +18,8 @@ Download everything from my repo. Make sure you are in the same directory as mak
 
 ## Description
 In this project, we develop a simple modeler system using Opengl and C++. The user is able to rendering a specific object by pressing a specific key. When user click on an object, he is able to select an object. We are asked to use mouse ray picking to achieve the selection. After an object is selected, we can translate, rotate, apply material and doing all kinds of things with it.
+
+<img src="../images/3d_modeler_system.png" width="800" height="700">
 
 ## Additional Features
 - Custom shape: use obj file and a parser to load obj model(a cat) into game. Can be applied with material and textures.
