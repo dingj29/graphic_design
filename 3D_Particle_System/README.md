@@ -15,6 +15,7 @@
 ## Project Functionality Description
 To generate a 3D particle fountain using OpenGL/Glut. Particles are randomly initialized with following properties: rotation angle, speed, direction, shape, color, size and material(there are different types of particles). Particles should be continuously added to the system, and should shoot upward from the "particle origin", then fall back to the plane. Despite of the mandatory features, Pressing N or n should place the camera position inside the next particle enters the system; Pressing 'w' 'a' 's' d' should change the angle of cannon and initial particle trajectory. Besides, we implemented three types of particles: rubber ball, anti-gravity ball and superglue ball. 
 
+ <img src="../images/3d_particle_system.png" width="600" height="514">
  
 ## Usage (Interaction with User)
 | Key  | Description  |
