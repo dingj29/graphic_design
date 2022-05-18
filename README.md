@@ -10,6 +10,7 @@
 - Common Features include: Scene Object Structure & Rendering, Mouse Ray Picking, Camera Control, Lighting, Material, Texture Mapping, Load & Save, Subsequent Interactive Manipulation of Objects(i.e. Transformation, Scaling, Rotation) and other Custom Features.
 
 <img src="./images/opengl_demo.png" width="800" height="700">
+
 ## Platform & Software
 - OS: Windows 10
 - Visual Studio 2019, Clion
