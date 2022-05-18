@@ -3,6 +3,7 @@ Team members:
 - Jianlan Ding 
 - Zicheng Guo
 - Hanjie Xu
+- Kaicheng Xu
 
 ## How to run
 1. Simple download everything from my repo.(be aware of directory, main.cpp is not in the src) 
