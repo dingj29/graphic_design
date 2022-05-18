@@ -12,6 +12,8 @@ Simple download everything from my repo.(be aware of directory, main.cpp is not 
 This is a Parkour game similar to Chameleon Run, which requires concentration and agility. 
 The Basic idea is that you can control a player to run on the lanes. You are able to control the player to switch between the three lanes. The color of the lanes generated ahead may be in different colors. You can change the color of the player by pressing number keys. If the color of player is not the same as the lane it is on, it will fall out and fail the game. There will also be randomly generated obstacles on the lanes for you to dodge. If the player hits the obstacle, it will also lose. The longer distance the player runs, the higher the score is.
 
+<img src="../../images/prototype.png" width="800" height="850">
+
 ## What have we implemented in prototype
 - generate world, there are 3 lanes, each lane contains many colours(red, green, blue)
 - is able to let player swith between lanes
